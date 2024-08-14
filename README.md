@@ -46,6 +46,4 @@ Here are some basic examples of how to use the Serverless Home Automation Hub:
 
 Contributions are welcome! If you'd like to contribute to this project, please follow our [contributing guidelines](CONTRIBUTING.md).
 
-## License
 
-This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
